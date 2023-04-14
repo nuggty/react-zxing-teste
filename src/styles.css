@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.none {
+  display: none;
+}
+
+.block {
+  display: block;
+}
